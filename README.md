@@ -5,6 +5,11 @@ Siga os passos para executar em seu computador:
 1. Clone este repositório em seu computador.
 2. Faço o download do Python
 3. Abra o terminal no repositório clonado.
-4. Execute pip install -r requirements.txt no terminal aberto para instalar os requisitos.
-5. Execute python manage.py runserver para iniciar um servidor local para a aplicação.
-6. Acesse http://127.0.0.1:8000/store
+4. Execute ```pip install -r requirements.txt``` no terminal aberto para instalar os requisitos.
+5. Execute ```python manage.py runserver``` para iniciar um servidor local para a aplicação.
+6. Acesse http://127.0.0.1:8000/store se for um usuário comum
+
+Você pode acessar http://127.0.0.1:8000/admin se for um usuário administrador.
+Há um usuário de teste:
+```Login: admin```
+```Senha: admin```
